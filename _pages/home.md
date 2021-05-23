@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 permalink: /page-archive/
 hidden: true
 header:
